@@ -4,6 +4,8 @@ The Copy Cat app is the capstone project of Codecademy's "Learn React" course. T
 
 The application features a cat named Tom. The cat will repeat everything you type into the input field available on the top of the page and you can mute him at anytime by clicking over his face.
 
+[Preview the page](https://nifty-goodall-cce798.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
